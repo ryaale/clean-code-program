@@ -26,10 +26,10 @@ file utils.py will be imported and used in the proceeding functions.
 
 Revision history:
 
-13 Oct 2014: built functions find_single_char_var and find_long_line
-14 Oct 2014: built functions find_trail_whitespace and find_bad_indent
-15 Oct 2014: built lint function
-16 Oct 2014: built quality score log function
-17 Oct 2014: ran code through pep8 online check
-19 Oct 2014: wrote all documentation
-23 Oct 2014: found way to calculate column for trail_whitespace
+13 Oct 2014: built functions find_single_char_var and find_long_line . 
+14 Oct 2014: built functions find_trail_whitespace and find_bad_indent . 
+15 Oct 2014: built lint function . 
+16 Oct 2014: built quality score log function . 
+17 Oct 2014: ran code through pep8 online check . 
+19 Oct 2014: wrote all documentation . 
+23 Oct 2014: found way to calculate column for trail_whitespace . 
